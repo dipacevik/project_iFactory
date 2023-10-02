@@ -1,0 +1,5 @@
+# factory-app
+
+```
+yarn install
+```
